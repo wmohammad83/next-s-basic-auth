@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## NextJS Basic Auth
+
+Demo app created as a reference guide for basic auth using Next Auth.
 
 ## Getting Started
 
